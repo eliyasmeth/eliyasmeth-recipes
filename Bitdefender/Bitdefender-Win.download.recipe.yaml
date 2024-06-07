@@ -5,7 +5,7 @@ MinimumVersion: 1.3.1
 
 Input:
   NAME: Bitdefender Antivirus
-  DOWNLOAD_URL: https://www.bitdefender.com/solutions/free/thank-you.html
+  DOWNLOAD_URL: https://download.bitdefender.com/windows/installer/en-us/bitdefender_avfree.exe
 
 Process:
 - Processor: URLDownloader
